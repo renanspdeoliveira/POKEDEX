@@ -1,5 +1,7 @@
 body {
   background: linear-gradient(to bottom, #d4e3fa, #1797c2);
+  background-size: cover;
+  background-repeat: no-repeat;
 
 }
 
